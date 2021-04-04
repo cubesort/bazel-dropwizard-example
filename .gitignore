@@ -1,0 +1,8 @@
+.ijwb
+
+bazel-bazel-guice-dropwizard-example
+bazel-bin
+bazel-out
+bazel-testlogs
+
+.DS_Store
